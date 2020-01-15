@@ -2,3 +2,4 @@ belajargit
 - saya belajar git
 - belajar membuat web
 - belajar membuat sebuah program
+- kepengen jadi web development tapi ga ada modal
