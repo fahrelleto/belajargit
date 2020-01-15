@@ -1,0 +1,4 @@
+belajargit
+- saya belajar git
+- belajar membuat web
+- belajar membuat sebuah program
